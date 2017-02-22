@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: efe0f54fc72d3534091c4b58bf1e5199
+timeCreated: 1486998561
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dark Garden (?Michal Kosmulski)
+  fontNames:
+  - Dark Garden (?Michal Kosmulski)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

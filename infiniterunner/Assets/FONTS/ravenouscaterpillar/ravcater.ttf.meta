@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c8827f1bf801b1c40b1cbf5251730057
+timeCreated: 1486998561
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ravenous Caterpillar BRK
+  fontNames:
+  - Ravenous Caterpillar BRK
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

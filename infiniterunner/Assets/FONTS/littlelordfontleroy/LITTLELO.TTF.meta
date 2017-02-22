@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cd18dd0342f200441a3e307d2ae21b29
+timeCreated: 1486998561
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LittleLordFontleroy
+  fontNames:
+  - LittleLordFontleroy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

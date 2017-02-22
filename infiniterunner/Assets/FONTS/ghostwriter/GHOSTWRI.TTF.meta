@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d51f5526bb819d14f8440094a37e2d73
+timeCreated: 1486998561
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ghostwriter
+  fontNames:
+  - Ghostwriter
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

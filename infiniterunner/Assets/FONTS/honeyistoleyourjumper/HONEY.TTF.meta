@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a2eb2fc949248114ba9d94f781f637ed
+timeCreated: 1486998560
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Honey I Stole Your Jumper
+  fontNames:
+  - Honey I Stole Your Jumper
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
